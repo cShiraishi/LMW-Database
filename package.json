@@ -1,7 +1,7 @@
 {
   "name": "moleculer",
   "version": "0.1.0",
-  "homepage": "https://cshiraishi.github.io/moleculer-1",
+  "homepage": "https://cshiraishi.github.io/LMW-Database",
   "private": true,
   "dependencies": {
     "@ant-design/icons": "^5.0.1",
